@@ -80,11 +80,11 @@ function App() {
             </p>
 
             <h1>
-              Hey You <span>♥</span>
+              Hey Akanksha <span>♥</span>
             </h1>
 
             <h2>
-              for my fav person
+               this is for my fav person
             </h2>
 
             <div className="shiny-heart">
@@ -141,7 +141,7 @@ function App() {
                   <h3>Your smile</h3>
                   <p>
                     Somehow it makes everything around you
-                    feel a little brighter.
+                    feel a little brighter haha cause you use your every teeth
                   </p>
                 </div>
               </div>
@@ -153,7 +153,7 @@ function App() {
                   <h3>Your energy</h3>
                   <p>
                     You have this way of making ordinary
-                    moments feel special.
+                    moments feel special ive found a perfect match ...muahh
                   </p>
                 </div>
               </div>
@@ -165,7 +165,7 @@ function App() {
                   <h3>The little things</h3>
                   <p>
                     The tiny things you do probably mean
-                    more than you realize.
+                    more than you realize your efforts are something that are the pillers of this relationship
                   </p>
                 </div>
               </div>
@@ -177,7 +177,7 @@ function App() {
                   <h3>Just you</h3>
                   <p>
                     Honestly, I could keep writing and
-                    still run out of reasons.
+                    still run out of reasons. Omg im so in love with you gurll
                   </p>
                 </div>
               </div>
@@ -239,7 +239,7 @@ function App() {
                   </h2>
 
                   <p>
-                    "you told me this was your fav colour"
+                    "you told me this was your fav colour today itself lol
                   </p>
 
                 </div>
@@ -266,7 +266,7 @@ function App() {
                   </h2>
 
                   <p>
-                    obviously they had to be here too ♡
+                    obviously they had to be here too ...that sticker yaar so beautiful
                   </p>
 
                 </div>
@@ -289,11 +289,11 @@ function App() {
                   </span>
 
                   <h2>
-                    Penguin
+                    Penguin also me??
                   </h2>
 
                   <p>
-                    okay okay... and maybe me too? 😌
+                    okay okay... i should be your favourite animal
                   </p>
 
                 </div>
@@ -336,22 +336,7 @@ function App() {
 
             <div className="photo-grid">
 
-              <div className="photo-card">
-                <div className="photo-placeholder photo-one">
-                  <img
-                    src="/photo1.png"
-                    alt="Our memory 1"
-                  />
-                </div>
-
-                <div className="photo-caption">
-                  <h3>That smile</h3>
-                  <p>
-                    A moment worth keeping forever.
-                  </p>
-                </div>
-              </div>
-
+          
 
               <div className="photo-card">
                 <div className="photo-placeholder photo-two">
@@ -364,10 +349,27 @@ function App() {
                 <div className="photo-caption">
                   <h3>One of my favourites</h3>
                   <p>
-                    Because this one just feels special.
+                    hotter than the sun itself
                   </p>
                 </div>
               </div>
+
+              <div className="photo-card">
+                <div className="photo-placeholder photo-one">
+                  <img
+                    src="/photo1.png"
+                    alt="Our memory 1"
+                  />
+                </div>
+
+                <div className="photo-caption">
+                  <h3>That smile</h3>
+                  <p>
+                    myyy cutieeeee
+                  </p>
+                </div>
+              </div>
+
 
 
               <div className="photo-card">
@@ -381,7 +383,7 @@ function App() {
                 <div className="photo-caption">
                   <h3>A tiny memory</h3>
                   <p>
-                    Something I never want to forget.
+                    happiest days with you
                   </p>
                 </div>
               </div>
@@ -398,7 +400,7 @@ function App() {
                 <div className="photo-caption">
                   <h3>Just us</h3>
                   <p>
-                    Simple moments are sometimes the best ones.
+                    our first trip ofc there are more to come 
                   </p>
                 </div>
               </div>
@@ -445,7 +447,7 @@ function App() {
               <p className="music-text">
                 Put on the song, take a little breath,
                 <br />
-                and stay here for a moment.
+                and stay here for a moment or just call meeee!
               </p>
 
               <button
@@ -530,7 +532,7 @@ function App() {
                   <div className="letter-line"></div>
 
                   <p>
-                    Hey you,
+                    Hey Akanksha,
                   </p>
 
                   <p>
@@ -559,7 +561,8 @@ function App() {
                   <p>
                     I hope you get everything you've ever wished for,
                     everything you've worked for, and everything that
-                    makes you truly happy.
+                    makes you truly happy follows you.
+            
                   </p>
 
                   <p className="letter-final">
